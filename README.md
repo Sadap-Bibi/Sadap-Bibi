@@ -25,15 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadapBibi&show_icons=true&theme=default&hide_title=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadapBibi&theme=default" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 [LinkedIn](#) www.linkedin.com/in/sadap-bibi
 
