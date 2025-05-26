@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sadap Bibi 👋</h1>
 
-<!--
-**Sadap-Bibi/Sadap-Bibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4E8EFF&center=true&width=380&lines=Final+Year+CSE+Student;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🎓 Final year CSE student  
+- 🌱 Currently learning and building cool things  
+- 💬 Open to collaboration and new ideas  
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SadapBibi&show_icons=true&theme=default&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadapBibi&theme=default" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](#) www.linkedin.com/in/sadap-bibi
+
+---
+
+<p align="center"><i>> “Code like poetry — clear, honest, and full of meaning.”
+</i></p>
