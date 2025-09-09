@@ -7,9 +7,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Final year CSE student  
-- 🌱 Currently learning and building cool things  
-- 💬 Open to collaboration and new ideas  
+- 🎓 Final Year Computer Science Engineering student at Parul University  
+- 🌱 Passionate about data, technology, and problem-solving  
+- 💬 Open to collaboration, learning, and exciting opportunities  
 
 ---
 
@@ -21,14 +21,15 @@
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel&logoColor=green" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](#) www.linkedin.com/in/sadap-bibi
+[LinkedIn](https://www.linkedin.com/in/sadap-bibi)  
 
 ---
 
-<p align="center"><i>> “Code like poetry — clear, honest, and full of meaning.”
-</i></p>
+<p align="center"><i>“Code like poetry — clear, honest, and full of meaning.”</i></p>
