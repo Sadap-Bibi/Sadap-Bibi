@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sadap Bibi👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4E8EFF&center=true&width=500&lines=Final+Year+CSE+Student;Aspiring+Data+Analyst;Full+Stack+%2B+ML+Enthusiast;Always+Learning+Something+New" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4E8EFF&center=true&width=500&lines=Final+Year+CSE+Student;Aspiring+Data+Analyst;ML+Enthusiast;Always+Learning+Something+New" alt="Typing Animation" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/sadap-bibi/))  
+- 💼 [LinkedIn] https://www.linkedin.com/in/sadap-bibi/ 
 - ✉️ Email: *sadapbibi@gmail.com*  
 
 ---
